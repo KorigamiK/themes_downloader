@@ -26,7 +26,6 @@ class themes:
                 print(index)
             for j, k in i.items():
                 if type(k) != list:
-
                     if get_input == True:
                         print(j, k)
                     else:
